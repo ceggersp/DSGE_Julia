@@ -1,5 +1,5 @@
 # DSGE_Julia
- `Julia` functions to solve log-linearized DSGE models
+ I wanted to know exactlty what `Dynare` was doing, so I decided to code by myself some `Julia` functions to solve log-linearized DSGE models. It will never have the conveniency of a `.mod` file, but at least for learning purposes is useful.
 
 ## `BK_solve.jl`
 
